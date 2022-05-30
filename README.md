@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul190101 (Abdul Kholik) 
-- 👀 I’m interested in Web Programmer
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Web Programming
-- 💞️ I’m looking collaborate untuk Belajar Coding Bersama
+- 💞️ I’m looking collaborate to Learn Coding Together
 - 📫 How to reach me to E-mail : akl859349@gmail.com
 
 <!---
